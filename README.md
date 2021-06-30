@@ -1,7 +1,8 @@
 <!-- [![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories) -->
+
 <p align="center">
 <!--     <img windth="470" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif"> -->
-    <img width="500" height="350" src="https://im7.ezgif.com/tmp/ezgif-7-ef1ccb04f69c.gif">
+    <img width="300" height="200" src="https://user-images.githubusercontent.com/49689391/123983563-f7741f80-d991-11eb-852d-48e64b1b1b31.gif">
   
 </p>
 
