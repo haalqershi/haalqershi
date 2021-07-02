@@ -6,7 +6,7 @@
   
 </p>
 
-<h1 align="center">⚡️Hesham Alqershi🤖</h1></center>
+<h1 align="center">⚡️Hello World, I'm Hesham Alqershi🤖</h1></center>
 
 <p align="center">
 <a href="mailto:alqershi.hesham@gmail.com">
@@ -23,7 +23,7 @@
 
 --- 
 
-- 🔭 I work at HCL Tech.
+- 🔭 I work at [HCL Tech](https://hcl.com/).
 - 🌱 I’m a full stack java developer.
 - 💬 Ask me about java or any tech related stuff.
 - 📫 How to reach me: [LinkedIn @alqershi](https://www.linkedin.com/in/alqershi)
