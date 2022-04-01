@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14815?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/alqershi/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-25D366?style=for-the-badge&logo=hackerrank&logoColor=green&color=black">
 </a>
 <!--  <a href="https://https://leetcode.com/haalqershi/">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
