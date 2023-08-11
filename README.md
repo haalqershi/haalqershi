@@ -20,10 +20,8 @@
 </p>
 
 --- 
-
-- 🔭 I work at [HCL Tech](https://hcl.com/).
-- 🌱 I’m a full stack java developer.
-- 💬 Ask me about java or any tech related stuff.
+- ⚡ View [My Portfolio](https://alqershi.com/).
+- 🌱 I’m a full stack software engineer.
 - 📫 How to reach me: [LinkedIn @alqershi](https://www.linkedin.com/in/alqershi)
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I drink more than 7 cups of coffee everyday.
+- 💬 Fun fact: I drink many cups of coffee every day; otherwise, I'll fall asleep.
